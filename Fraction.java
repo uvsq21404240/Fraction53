@@ -1,10 +1,3 @@
-
-/**
- * Décrivez votre classe Fraction ici.
- *
- * @author (votre nom)
- * @version (un numéro de version ou une date)
- */
 public class Fraction
 {
     // variables d'instance - remplacez l'exemple qui suit par le vôtre
